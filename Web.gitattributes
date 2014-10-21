@@ -30,7 +30,7 @@
 *.rb text
 *.py text
 *.scm text
-.htaccess text
+*.sql text
 
 # These files are binary and should be left untouched
 # (binary is a macro for -text -diff)
